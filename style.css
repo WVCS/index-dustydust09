@@ -32,3 +32,29 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     <br>
 
     </html>
+
+    <html>
+    
+    ul{
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  Background-color: gold;
+  top: 0;
+  margin: 0;
+  left: 0;
+}
+
+li a {
+  display: block;
+  float: left;
+  padding: 10px 215px;
+  color: green;
+}
+
+li a:hover{
+  background-color: green;
+  color:gold;
+}
+    
+    </html>
